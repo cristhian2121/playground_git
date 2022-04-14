@@ -21,3 +21,8 @@ when we need to use this comman is important to follow the bellow steps:
 
 *change the branch to important branch and repeat this proces
 `git rebase aux_branch`
+
+
+#### git stash
+
+It command is very util when we need to save a change without push, for example
