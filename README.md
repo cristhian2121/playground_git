@@ -1,10 +1,10 @@
-## Git notes
+# Git notes
 
 This repository is created with my goal to remeber some command by git.
 
-### Commands:
+## Commands:
 
-#### git rebase
+### git rebase
 this is an important commant but be carefull about it uses, normally this command
  is used to fix something in local environment.
 
@@ -24,7 +24,7 @@ when we need to use this comman is important to follow the bellow steps:
 `git rebase aux_branch`
 
 
-#### git stash
+### git stash
 
 It command is very util when we need to save a change without push, for example:
 we have changes in branch *aux_brach* and we need to pass to main but in my current branch (aux_branch) i have some files edited so the wise to save my change and memory with stash
