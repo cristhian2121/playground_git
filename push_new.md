@@ -1,4 +1,4 @@
-Push to new repository.
+Push to new repository..
 
 echo "# playground_git" >> README.md
 git init
