@@ -39,4 +39,6 @@ git clean is a command that remove things that it can index (files) and is neces
 
 ### git cherry-pick
 
-It is a method to select some special commit to move or extract to another branch
+It is a method to select some special commit and moves it or extracts it to another branch.
+
+Caution: when return our changes with merge it will create a confict
