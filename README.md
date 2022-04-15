@@ -42,3 +42,13 @@ git clean is a command that remove things that it can index (files) and is neces
 It is a method to select some special commit and moves it or extracts it to another branch.
 
 Caution: when return our changes with merge it will create a confict
+
+### git reflog
+It shows all history in git without important if the branch, file was removed
+
+### git reset --hard/--soft  #commit/HEAD@{5}
+This command is dangerous because change the history of git.
+
+--soft: maniant your changes in stash and you can return to especific commit 
+
+--hard: return and remove all
