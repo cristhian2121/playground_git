@@ -1,3 +1,5 @@
+Push to new repository
+
 echo "# playground_git" >> README.md
 git init
 git add README.md
