@@ -1,4 +1,4 @@
-### Git notes
+## Git notes
 
 This repository is created with my goal to remeber some command by git.
 
