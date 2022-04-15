@@ -29,4 +29,6 @@ when we need to use this comman is important to follow the bellow steps:
 It command is very util when we need to save a change without push, for example:
 we have changes in branch *aux_brach* and we need to pass to main but in my current branch (aux_branch) i have some files edited so the wise to save my change and memory with stash
 
+`git stash`
+
 
