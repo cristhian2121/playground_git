@@ -33,4 +33,7 @@ we have changes in branch *aux_brach* and we need to pass to main but in my curr
 
 ### git clean
 
+git clean is a command that remove things that it can index (files) and is necessary taht they files are no in .gitignore, because in this case no is index by **git**
+
+`git clean --dry-run`
 
