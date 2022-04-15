@@ -31,4 +31,6 @@ we have changes in branch *aux_brach* and we need to pass to main but in my curr
 
 `git stash`
 
+### git clean
+
 
