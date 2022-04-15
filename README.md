@@ -37,3 +37,4 @@ git clean is a command that remove things that it can index (files) and is neces
 
 `git clean --dry-run`
 
+### git cherry-pick
